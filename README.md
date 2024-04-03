@@ -1,4 +1,11 @@
 # Unicron Business Analysis Using Power BI
+
+## Checkout and Interact with my Dashboard On:
+
+https://www.novypro.com/project/unicorn-business-analysis-power-bi
+
+## INTRODUCTION
+
 This report provides analysis of unicorn companies across industries, regions, and key metrics including funding, valuation, and ROI. The dashboard facilitates stakeholders in tracking trends, identifying opportunities, and making informed decisions. The analysis covers 1072 unicorn companies across 15 industries and 6 continents. The dashboard provides comprehensive insights for stakeholders to navigate the unicorn landscape effectively.
 
 ## PROBLEM STATEMENT
